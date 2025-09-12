@@ -28,3 +28,5 @@ function Card({username, btnText="visit me"}) {
 export default Card
 
 // https://www.devui.in/components
+
+// tailwind css : https://tailwindcss.com/docs/installation/using-vite
